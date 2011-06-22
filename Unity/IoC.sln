@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.7070
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "IoC.csproj", "{05A4A30F-1FF4-4706-BD7A-D23F8A34D9D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A4A30F-1FF4-4706-BD7A-D23F8A34D9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A4A30F-1FF4-4706-BD7A-D23F8A34D9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A4A30F-1FF4-4706-BD7A-D23F8A34D9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A4A30F-1FF4-4706-BD7A-D23F8A34D9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
